@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8194d416-57d3-4fc0-ae5b-62c245ef1f80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-cli/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-cluster/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-storage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetqueue-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zAXMK73UTtl0IYrG3gc2joifkP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JetQueue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="jet-queue" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8194d416-57d3-4fc0-ae5b-62c245ef1f80" name="Changes" comment="" />
+      <created>1751174802606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751174802606</updated>
+    </task>
+    <servers />
+  </component>
+</project>
